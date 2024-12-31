@@ -45,5 +45,5 @@ Nhận diện thủ ngữ: Trong các dự án nhận diện ngôn ngữ ký hi�
 [![Watch video](https://img.youtube.com/vi/vBhYvOIoWmc/0.jpg)](https://www.youtube.com/watch?v=vBhYvOIoWmc&autoplay=1)
 
 ## Tài liệu
-<!-- [Báo cáo chi tiết dự án](report/chat_app_chuyen_de_chuyen_sau_1_nguyen_le_quoc_bao_2100004053.docx) -->
+[Báo cáo chi tiết dự án](report/HoVanPhuong_2100009552.doc)
 
