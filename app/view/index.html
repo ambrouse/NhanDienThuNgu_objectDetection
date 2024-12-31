@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="{{ url_for('static',filename='js/jquery.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js" integrity="sha512-q/dWJ3kcmjBLU4Qc47E4A9kTB4m3wuTY7vkFJDTZKjTs8jhyGQnaUrxa0Ytd0ssMZhbNua9hE+E7Qv1j+DyZwA==" crossorigin="anonymous"></script>
+    <script src="{{ url_for('static',filename='js/index.js') }}"></script>
+    <link rel="stylesheet" href="../static/css/reset_css.css">
+    <link rel="stylesheet" href="../static/css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="main">
+        <div class="webcam">
+            <div class="webcam__btn">
+                <div class="webcam__btn_1">
+                    <button>Camera: ON</button>
+                </div>
+                <div class="webcam__btn_2">
+                    <button>Camera: OFF</button>
+                </div>
+            </div>
+            <div class="webcam__contro">
+                <div class="cam__contro">
+                    <p>Camera: OFF</p>
+                </div>
+                <div class="model__contro">
+                    <p>Detect: OFF</p>
+                </div>
+            </div>
+            <div class="webcam__show">
+                <div class="img">
+                   <!-- <img src="../779395.jpg" alt=""> -->
+                </div>
+            </div>
+            <div class="webcam__text">
+                <div class="text">
+                   <p></p>
+                </div>
+            </div>
+            <div class="thong_bao_phat_thanh">
+                <p style="color: white;"></p>
+            </div>
+            <div class="phat_thanh" style="visibility:hidden;">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
