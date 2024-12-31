@@ -38,8 +38,10 @@ Nhận diện thủ ngữ: Trong các dự án nhận diện ngôn ngữ ký hi�
 - Vscode trong quá trình code lấy data, lấy data, và code web
 
 ## Ảnh demo cho dữ liệu trainning
+<img src="assets_readme/data.png" alt="!!err image loading." width="500"/>
 
 ## Thông số các hàm loss, acc và một vài độ đo khác
+<img src="assets_readme/loss.png" alt="!!err image loading." width="700"/>
 
 ## Video Demo cho dự án
 [![Watch video](https://img.youtube.com/vi/vBhYvOIoWmc/0.jpg)](https://www.youtube.com/watch?v=vBhYvOIoWmc&autoplay=1)
